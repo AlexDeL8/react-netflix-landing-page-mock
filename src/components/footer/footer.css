@@ -1,0 +1,30 @@
+.Footer {
+  width: 55%;
+  margin: 0 auto;
+  margin-top: 100px;
+  text-align: left;
+}
+
+.Footer > * {
+  color: grey;
+}
+
+.FooterLinkList {
+  list-style-type: none;
+  display: inline-block;
+  margin-right: 100px;
+}
+
+#PhoneNumber {
+  font-size: 16px;
+}
+
+a {
+  text-decoration: none;
+  color: grey;
+  font-size: 13px;
+}
+
+a:hover {
+  text-decoration: underline;
+}

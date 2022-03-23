@@ -1,0 +1,12 @@
+@import "./components/header/header.css";
+@import "./components/main/info/info.css";
+@import "./components/main/faqs/faqs.css";
+@import "./components/footer/footer.css";
+@import "./components/utils/utils.css";
+
+.LandingPage {
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+  background-color: black;
+}

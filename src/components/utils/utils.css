@@ -1,0 +1,26 @@
+#LanguageBtn {
+  background-color: rgba(0, 0, 0, 0.8);
+  border-color: white;
+  font-weight: bolder;
+}
+
+.FooterButton {
+  font-size: 16px;
+  display: block;
+  margin-top: 30px;
+}
+
+input {
+  padding: 27px 300px 20px 10px;
+  color: black;
+  font-size: 16px;
+}
+
+button {
+  background-color: red;
+  border: none;
+  font-weight: lighter;
+  border-radius: 1px;
+  padding: 18px 32px;
+  font-size: 28px;
+}

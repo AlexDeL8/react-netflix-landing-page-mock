@@ -1,0 +1,26 @@
+.Panel {
+  border-top: solid 7px rgb(40, 40, 40);
+  padding: 10px 0px;
+}
+
+.InfoText {
+  display: inline-block;
+  text-align: left;
+  width: 30%;
+}
+
+.InfoText > h2 {
+  font-size: 48px;
+  margin-bottom: 15px;
+}
+
+.InfoText > h3 {
+  font-size: 24px;
+  font-weight: lighter;
+  margin-top: 5px;
+}
+
+.Panel > img {
+  height: 350px;
+  width: 450px;
+}

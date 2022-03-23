@@ -1,0 +1,55 @@
+* {
+  color: white;
+}
+
+.Navbar {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+#Logo {
+  color: rgb(229, 9, 20);
+  font-size: 48px;
+  font-weight: bolder;
+  float: left;
+  padding: 10px 0px 0px 40px;
+}
+
+.NavButton {
+  float: right;
+  border-radius: 3px;
+  padding: 8px;
+  margin: 15px 40px 0px 0px;
+  font-size: 16px;
+  font-weight: lighter;
+}
+
+#LanguageBtn {
+  background-color: rgba(0, 0, 0, 0.8);
+  border-color: white;
+  font-weight: bolder;
+}
+
+#SignupBtn {
+  background-color: red;
+  border: none;
+  font-weight: bolder;
+}
+
+.Jumbotron {
+  background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/68c9706b-acd1-4472-bb1d-ef3ca933154c/298a5fdb-322c-44cb-839c-0b144a4b7159/US-en-20211011-popsignuptwoweeks-perspective_alpha_website_small.jpg);
+}
+
+.Jumbotron-main {
+  padding: 250px;
+  background-color: rgba(0, 0, 0, 0.65);
+}
+
+#JumboText {
+  font-weight: bolder;
+  font-size: 54px;
+}
+
+#JumboSubtext {
+  font-weight: lighter;
+  font-size: 24px;
+}
